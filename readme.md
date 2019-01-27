@@ -13,5 +13,4 @@ Please refer to the PDF for additional details on the project.
   * When you are done, you must submit `WebsiteVisit+Solution.swift` and `ViewHierarchy+Solution.swift` *only*. As stated above, if you needed to add any additional code, you must do it within these files. You are not allowed to modify any other file.
 
 * Regardless of which languange you use, there are 4 unit tests for each problem included. Make sure the tests run and pass (`Command + U` to run them) before you submit!
-* After that, you may submit the 2 appropriate files to your recruiter.
 
